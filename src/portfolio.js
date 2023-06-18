@@ -65,7 +65,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: ".Net",
       fontAwesomeClassname: "fab fa-battle-net"
-    }, 
+    },
     {
       skillName: "flutter",
       fontAwesomeClassname: "fab fa-swift"
@@ -78,7 +78,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-   
+
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -137,10 +137,9 @@ const educationInfo = {
       descBullets: [
         "Internship 1 : Magneton: Endless Runner Game (Unity / C#)",
         "Internship 2 : Bring It: Mobile Shopping App (Java)",
-        "Thesis  : Detect My Puppy: Mobile Application That Detects Dog Breed (Java / Tensorflow) ",
+        "Thesis  : Detect My Puppy: Mobile Application That Detects Dog Breed (Java / Tensorflow) "
       ]
-    },
-   
+    }
   ]
 };
 
@@ -175,7 +174,7 @@ const workExperiences = {
       company: "Arfitect",
       companylogo: require("./assets/images/arfitectLogo.png"),
       date: "June 2021 – Present",
-      desc: "I am currently working as a Flutter Developer, where I continue to develop projects using different libraries and packages such as Mobx, Get, Provider, Logger, and Firebase.",
+      desc: "I am currently working as a Flutter Developer, where I continue to develop projects using different libraries and packages such as Mobx, Get, Provider, Logger, and Firebase."
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -227,7 +226,8 @@ const bigProjects = {
     {
       image: require("./assets/images/vBoxLogo.png"),
       projectName: "VBlackBox",
-      projectDesc: " It is a monolithic application that I have developed, which feeds the front-end using APIs created by Riot. It is a loot box within the application where you can obtain character and equipment information.",
+      projectDesc:
+        " It is a monolithic application that I have developed, which feeds the front-end using APIs created by Riot. It is a loot box within the application where you can obtain character and equipment information.",
       footerLink: [
         {
           name: "Visit App",
@@ -253,12 +253,13 @@ const achievementSection = {
       subtitle:
         "Developer Certification, representing approximately 300 hours of coursework.",
       image: require("./assets/images/freecodecampLogo.png"),
-      imageAlt: "Developer Certification, representing approximately 300 hours of coursework.",
+      imageAlt:
+        "Developer Certification, representing approximately 300 hours of coursework.",
       footerLink: [
         {
           name: "Certification",
           url: "https://www.freecodecamp.org/certification/fcca43c47ea-3171-4b06-aaf0-16ecd8b9c835/javascript-algorithms-and-data-structures"
-        },
+        }
         // {
         //   name: "Award Letter",
         //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
@@ -281,7 +282,7 @@ const achievementSection = {
           url: "https://www.coursera.org/account/accomplishments/certificate/T9WV46SRBX8C "
         }
       ]
-    },
+    }
 
     // {
     //   title: "PWA Web App Developer",
@@ -311,14 +312,12 @@ const blogSection = {
     {
       url: "https://medium.com/arfitect/5-tools-packages-for-better-flutter-development-298473cafaf6",
       title: "5 Tools/Packages For Better Flutter Development",
-      description:
-        "5 Tools/Packages For Better Flutter Development"
+      description: "5 Tools/Packages For Better Flutter Development"
     },
     {
       url: "https://medium.com/arfitect/headless-context-management-systems-ba%C5%9Fs%C4%B1z-i%CC%87%C3%A7erik-y%C3%B6netim-sistemleri-40f4f76af75a",
       title: "Headless Content Management Systems",
-      description:
-        "Headless Content Management Systems"
+      description: "Headless Content Management Systems"
     }
   ],
   display: true // Set false to hide this section, defaults to true
