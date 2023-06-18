@@ -1,13 +1,13 @@
-import React from "react";
-import "./TalkCard.scss";
+import React from 'react';
+import './TalkCard.scss';
 
-export default function TalkCard({talkDetails}) {
+export default function TalkCard({ talkDetails }) {
   return (
     <div>
       <div className="container">
         <div
           className={
-            talkDetails.isDark ? "dark-rectangle rectangle" : "rectangle"
+            talkDetails.isDark ? 'dark-rectangle rectangle' : 'rectangle'
           }
         >
           <div className="diagonal-fill"></div>

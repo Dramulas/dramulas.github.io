@@ -1,15 +1,15 @@
-import React from "react";
-import "./GithubRepoCard.scss";
-import {Fade} from "react-reveal";
-import {formatFileSizeDisplay} from "../../utils";
+import React from 'react';
+import './GithubRepoCard.scss';
+import { Fade } from 'react-reveal';
+import { formatFileSizeDisplay } from '../../utils';
 
-export default function GithubRepoCard({repo, isDark}) {
+export default function GithubRepoCard({ repo, isDark }) {
   function openUrlInNewTab(url, name) {
     if (!url) {
       console.log(`URL in ${name} is undefined`);
       return;
     }
-    var win = window.open(url, "_blank");
+    var win = window.open(url, '_blank');
     win.focus();
   }
 
@@ -17,7 +17,7 @@ export default function GithubRepoCard({repo, isDark}) {
     <Fade bottom duration={1000} distance="20px">
       <div>
         <div
-          className={isDark ? "dark-card-mode repo-card-div" : "repo-card-div"}
+          className={isDark ? 'dark-card-mode repo-card-div' : 'repo-card-div'}
           key={repo.node.id}
           onClick={() => openUrlInNewTab(repo.node.url, repo.node.name)}
         >
@@ -44,7 +44,7 @@ export default function GithubRepoCard({repo, isDark}) {
                 <span>
                   <div
                     className="language-color"
-                    style={{backgroundColor: repo.node.primaryLanguage.color}}
+                    style={{ backgroundColor: repo.node.primaryLanguage.color }}
                   ></div>
                   <p>{repo.node.primaryLanguage.name}</p>
                 </span>
