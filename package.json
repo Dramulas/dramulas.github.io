@@ -2,7 +2,7 @@
   "homepage": "https://dramulas.github.io",
   "name": "dramulas",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "colorthief": "^2.3.0",
     "enzyme": "^3.11.0",
