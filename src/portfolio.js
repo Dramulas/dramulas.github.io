@@ -26,7 +26,7 @@ const greeting = {
     'My approach to software development is rooted in the user experience, continually focusing on improved functionality and application efficiency. \n I actively seek out new challenges, aiming to apply my technical knowledge and skills to drive innovative solutions. My professional trajectory showcases not only my abilities as a software developer but also my dedication to growth, adaptability, and commitment to delivering value. I am confident that my expertise and passion make me a strong asset to any team and project.'
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    'https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing', // Set to empty to hide the button
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -71,9 +71,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fa-brands fa-flutter',
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    }, {
+      skillName: 'swift',
+      fontAwesomeClassname: 'fab fa-swift',
+    },
+    {
       skillName: 'html-5',
       fontAwesomeClassname: 'fab fa-html5',
     },
@@ -90,8 +91,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-react',
     },
     {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: 'python',
+      fontAwesomeClassname: 'fab fa-python',
     },
     {
       skillName: 'npm',
