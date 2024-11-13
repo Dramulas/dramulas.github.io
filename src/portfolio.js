@@ -3,14 +3,14 @@
 // To change portfolio colors globally go to the  _globalColor.scss file
 
 import emoji from 'react-easy-emoji';
-import splashAnimation from './assets/lottie/splashAnimation'; // Rename to your file name for custom animation
+import splashAnimation from './assets/lottie/renny'; // Rename to your file name for custom animation
 
 // Splash Screen
 
 const splashScreen = {
   enabled: true, // set false to disable splash screen
   animation: splashAnimation,
-  duration: 2000, // Set animation duration as per your animation
+  duration: 2500, // Set animation duration as per your animation
 };
 
 // Summary And Greeting Section
@@ -21,12 +21,12 @@ const illustration = {
 
 const greeting = {
   username: 'Ulas Renas Ordu',
-  title: "Hi all, I'm Ulaş",
+  title: "Hi all, I'm Renas",
   subTitle: emoji(
-    'A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Flutter and some other cool libraries and frameworks.'
+    'My approach to software development is rooted in the user experience, continually focusing on improved functionality and application efficiency. \n I actively seek out new challenges, aiming to apply my technical knowledge and skills to drive innovative solutions. My professional trajectory showcases not only my abilities as a software developer but also my dedication to growth, adaptability, and commitment to delivering value. I am confident that my expertise and passion make me a strong asset to any team and project.'
   ),
-  // resumeLink:
-  //   "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+  resumeLink:
+    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -64,13 +64,16 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: '.Net',
-      fontAwesomeClassname: 'fab fa-battle-net',
+      fontAwesomeClassname: 'fab fa-dot-net',
     },
     {
       skillName: 'flutter',
-      fontAwesomeClassname: 'fab fa-swift',
+      fontAwesomeClassname: 'fa-brands fa-flutter',
     },
     {
+      skillName: "swift",
+      fontAwesomeClassname: "fab fa-swift"
+    }, {
       skillName: 'html-5',
       fontAwesomeClassname: 'fab fa-html5',
     },
@@ -78,7 +81,6 @@ https://fontawesome.com/icons?d=gallery */
       skillName: 'css3',
       fontAwesomeClassname: 'fab fa-css3-alt',
     },
-
     {
       skillName: 'JavaScript',
       fontAwesomeClassname: 'fab fa-js',
@@ -87,14 +89,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: 'reactjs',
       fontAwesomeClassname: 'fab fa-react',
     },
-    // {
-    //   skillName: "nodejs",
-    //   fontAwesomeClassname: "fab fa-node"
-    // },
-    // {
-    //   skillName: "swift",
-    //   fontAwesomeClassname: "fab fa-swift"
-    // },
+    {
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
+    },
     {
       skillName: 'npm',
       fontAwesomeClassname: 'fab fa-npm',
@@ -111,10 +109,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: 'firebase',
       fontAwesomeClassname: 'fas fa-fire',
     },
-    // {
-    //   skillName: "python",
-    //   fontAwesomeClassname: "fab fa-python"
-    // },
+
     {
       skillName: 'docker',
       fontAwesomeClassname: 'fab fa-docker',
@@ -170,7 +165,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: 'Flutter Engineer',
+      role: 'Mobile Developer',
       company: 'Arfitect',
       companylogo: require('./assets/images/arfitectLogo.png'),
       date: 'June 2021 – Present',
@@ -360,7 +355,7 @@ const contactInfo = {
   // ☎️
   subtitle:
     'Discuss a project or just want to say hi? My Inbox is open for all.',
-  number: '+90-544.......',
+  // number: '+90-544.......',
   email_address: 'ulasrenasordu@gmail.com',
 };
 

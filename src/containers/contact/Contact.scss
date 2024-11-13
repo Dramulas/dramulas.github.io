@@ -46,8 +46,7 @@
 }
 
 .contact-image-div > img {
-  max-width: 100%;
-  height: auto;
+  height: 60% !important;
   margin-left: 1.5rem;
   margin-top: -4rem;
 }
@@ -82,6 +81,7 @@
   }
 
   .contact-image-div {
-    display: none;
+    height: 60% !important;
+
   }
 }
