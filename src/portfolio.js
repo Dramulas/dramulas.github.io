@@ -71,7 +71,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-flutter',
     },
     {
-      skillName: 'Swift',
+      skillName: 'swift',
       fontAwesomeClassname: 'fab fa-swift',
     },
     {
@@ -91,8 +91,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-react',
     },
     {
-      skillName: 'Python',
+      skillName: 'python',
       fontAwesomeClassname: 'fab fa-python',
+    },
+    {
+      skillName: 'npm',
+      fontAwesomeClassname: 'fab fa-npm',
     },
     {
       skillName: 'sql-database',
