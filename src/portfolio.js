@@ -71,7 +71,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-flutter',
     },
     {
-      skillName: 'SWwift',
+      skillName: 'Swift',
       fontAwesomeClassname: 'fab fa-swift',
     },
     {
