@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.27c2b0e9.css",
-    "main.js": "/static/js/main.b4eb135b.js",
+    "main.css": "/static/css/main.b1d6a1ec.css",
+    "main.js": "/static/js/main.02740a13.js",
     "static/css/487.f3656e02.chunk.css": "/static/css/487.f3656e02.chunk.css",
     "static/js/487.dec277f2.chunk.js": "/static/js/487.dec277f2.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
@@ -19,15 +19,15 @@
     "static/media/osigoLogo.png": "/static/media/osigoLogo.45f0a8538f8d3c184b7f.png",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.27c2b0e9.css.map": "/static/css/main.27c2b0e9.css.map",
-    "main.b4eb135b.js.map": "/static/js/main.b4eb135b.js.map",
+    "main.b1d6a1ec.css.map": "/static/css/main.b1d6a1ec.css.map",
+    "main.02740a13.js.map": "/static/js/main.02740a13.js.map",
     "487.f3656e02.chunk.css.map": "/static/css/487.f3656e02.chunk.css.map",
     "487.dec277f2.chunk.js.map": "/static/js/487.dec277f2.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
     "990.96c84d72.chunk.js.map": "/static/js/990.96c84d72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27c2b0e9.css",
-    "static/js/main.b4eb135b.js"
+    "static/css/main.b1d6a1ec.css",
+    "static/js/main.02740a13.js"
   ]
 }
