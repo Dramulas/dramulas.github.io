@@ -67,11 +67,11 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-dot-net',
     },
     {
-      skillName: 'flutter',
-      fontAwesomeClassname: 'fa-brands fa-flutter',
+      skillName: 'Flutter',
+      fontAwesomeClassname: 'fab fa-flutter',
     },
     {
-      skillName: 'swift',
+      skillName: 'SWwift',
       fontAwesomeClassname: 'fab fa-swift',
     },
     {
@@ -87,16 +87,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-js',
     },
     {
-      skillName: 'reactjs',
+      skillName: 'React.js',
       fontAwesomeClassname: 'fab fa-react',
     },
     {
-      skillName: 'python',
+      skillName: 'Python',
       fontAwesomeClassname: 'fab fa-python',
-    },
-    {
-      skillName: 'npm',
-      fontAwesomeClassname: 'fab fa-npm',
     },
     {
       skillName: 'sql-database',
