@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b1d6a1ec.css",
-    "main.js": "/static/js/main.3bb16345.js",
+    "main.js": "/static/js/main.d7a9db2e.js",
     "static/css/487.f3656e02.chunk.css": "/static/css/487.f3656e02.chunk.css",
     "static/js/487.dec277f2.chunk.js": "/static/js/487.dec277f2.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
@@ -15,12 +15,13 @@
     "static/media/kiLogo.png": "/static/media/kiLogo.dd61848ec28b674e3b9a.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/freecodecampLogo.png": "/static/media/freecodecampLogo.4039d077833b973e20e0.png",
+    "static/media/kcLogo.png": "/static/media/kcLogo.90089f2db62946afcab8.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/osigoLogo.png": "/static/media/osigoLogo.45f0a8538f8d3c184b7f.png",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.b1d6a1ec.css.map": "/static/css/main.b1d6a1ec.css.map",
-    "main.3bb16345.js.map": "/static/js/main.3bb16345.js.map",
+    "main.d7a9db2e.js.map": "/static/js/main.d7a9db2e.js.map",
     "487.f3656e02.chunk.css.map": "/static/css/487.f3656e02.chunk.css.map",
     "487.dec277f2.chunk.js.map": "/static/js/487.dec277f2.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -28,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.b1d6a1ec.css",
-    "static/js/main.3bb16345.js"
+    "static/js/main.d7a9db2e.js"
   ]
 }
