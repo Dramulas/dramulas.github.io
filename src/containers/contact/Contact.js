@@ -13,7 +13,16 @@ export default function Contact() {
     <Fade bottom duration={1000} distance="20px">
       <div className="main contact-margin-top" id="contact">
         <div className="contact-div-main">
-          <div className="contact-header">
+        <div className="contact-image-div" style={{ width: '50%' }}>
+            {illustration.animated ? (
+              <DisplayLottie animationData={email} style={{ width: '75%' }} />
+            ) : (
+              <img
+                alt="Man working"
+                src={require('../../assets/images/contactMailDark.svg')}
+              ></img>
+            )}
+          </div> <div className="contact-header" style={{ width: '50%' }}>
             <h1 className="heading contact-title">{contactInfo.title}</h1>
             <p
               className={
@@ -52,16 +61,8 @@ export default function Contact() {
               <SocialMedia />
             </div>
           </div>
-          <div className="contact-image-div">
-            {illustration.animated ? (
-              <DisplayLottie animationData={email} />
-            ) : (
-              <img
-                alt="Man working"
-                src={require('../../assets/images/contactMailDark.svg')}
-              ></img>
-            )}
-          </div>
+          
+         
         </div>
       </div>
     </Fade>
