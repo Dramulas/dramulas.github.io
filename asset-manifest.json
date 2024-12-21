@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1d6a1ec.css",
-    "main.js": "/static/js/main.d7a9db2e.js",
+    "main.css": "/static/css/main.817b5c12.css",
+    "main.js": "/static/js/main.dbd5718a.js",
     "static/css/487.f3656e02.chunk.css": "/static/css/487.f3656e02.chunk.css",
-    "static/js/487.dec277f2.chunk.js": "/static/js/487.dec277f2.chunk.js",
+    "static/js/487.c31616e3.chunk.js": "/static/js/487.c31616e3.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.96c84d72.chunk.js": "/static/js/990.96c84d72.chunk.js",
     "static/media/cuLogo.png": "/static/media/cuLogo.0735d9493eac7e417fec.png",
@@ -20,15 +20,15 @@
     "static/media/osigoLogo.png": "/static/media/osigoLogo.45f0a8538f8d3c184b7f.png",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.b1d6a1ec.css.map": "/static/css/main.b1d6a1ec.css.map",
-    "main.d7a9db2e.js.map": "/static/js/main.d7a9db2e.js.map",
+    "main.817b5c12.css.map": "/static/css/main.817b5c12.css.map",
+    "main.dbd5718a.js.map": "/static/js/main.dbd5718a.js.map",
     "487.f3656e02.chunk.css.map": "/static/css/487.f3656e02.chunk.css.map",
-    "487.dec277f2.chunk.js.map": "/static/js/487.dec277f2.chunk.js.map",
+    "487.c31616e3.chunk.js.map": "/static/js/487.c31616e3.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
     "990.96c84d72.chunk.js.map": "/static/js/990.96c84d72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1d6a1ec.css",
-    "static/js/main.d7a9db2e.js"
+    "static/css/main.817b5c12.css",
+    "static/js/main.dbd5718a.js"
   ]
 }
