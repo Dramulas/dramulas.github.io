@@ -64,11 +64,11 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: '.Net',
-      fontAwesomeClassname: 'fab fa-dot-net',
+      fontAwesomeClassname: 'fab fa-microsoft',
     },
     {
       skillName: 'Flutter',
-      fontAwesomeClassname: 'fab fa-flutter',
+      fontAwesomeClassname: 'fab fa-earlybirds',
     },
     {
       skillName: 'swift',
