@@ -13,10 +13,10 @@ export default function Education() {
       <div className="education-main-div">
         <Fade bottom duration={1000} distance="40px">
           <div className="education-heading">
-            <h1 className={isDark ? "dark-mode heading" : "heading"}>
+            <h1 className={isDark ? 'dark-mode heading' : 'heading'}>
               {educationInfo.title}
             </h1>
-            <p className={isDark ? "dark-mode subTitle" : "subTitle"}>
+            <p className={isDark ? 'dark-mode subTitle' : 'subTitle'}>
               {educationInfo.subtitle}
             </p>
           </div>

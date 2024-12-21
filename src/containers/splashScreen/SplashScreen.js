@@ -11,7 +11,7 @@ export default function SplashScreen() {
       <div className="splash-animation-container">
         <DisplayLottie
           animationData={splashScreen.animation}
-          style={{  height: '100%' }}
+          style={{ height: '100%' }}
         />
       </div>
       <div className="splash-title-container">
