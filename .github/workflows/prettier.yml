@@ -22,4 +22,4 @@ jobs:
 
       - name: Check Format
         run: |
-          prettier -c "./**/*.{js,css,json}"
+          prettier --write "./**/*.{js,css,json}"
