@@ -125,6 +125,18 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
+      schoolName: 'Katip Celebi University',
+      logo: require('./assets/images/kcLogo.png'),
+      subHeader: 'Software Engineering',
+      duration: '2023 - Still Studying',
+      desc: 'Cumulative GPA : 4',
+      descBullets: [
+        // 'Internship 1 : Magneton: Endless Runner Game (Unity / C#)',
+        // 'Internship 2 : Bring It: Mobile Shopping App (Java)',
+        // 'Thesis  : Detect My Puppy: Mobile Application That Detects Dog Breed (Java / Tensorflow) ',
+      ],
+    },
+    {
       schoolName: 'Cukurova University',
       logo: require('./assets/images/cuLogo.png'),
       subHeader: 'Computer Engineering',
